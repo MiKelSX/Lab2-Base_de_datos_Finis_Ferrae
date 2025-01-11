@@ -61,21 +61,14 @@ Este repositorio contiene el desarrollo de un sistema de gestión de base de dat
 ![Lab2-Base_de_datos_Finis_Ferrae](github-files/tabla.png)
 
 ### Consultas Ejemplares
-- Propiedades con reparaciones menores a $100,000.
-- Contratos de arriendo activos con fechas específicas.
-- Propiedades en sectores específicos (e.g., "Condominio Las Hojas").
-
-### Formularios Interactivos
-- Navegación por registros.
-- Inserción, edición y eliminación de datos.
-- Impresión de registros seleccionados.
+Contiene 20 consultas simples y 15 consultas anidadas, las cuales son para cada SGBD ver diferencias entre SQL Server y MySql
 
 ## 📂 Estructura del Proyecto
 
 ```
 ├── README.md
-├── Lab 1 Bases de Datos.pdf        # Informe de Laboratorio 1
-├── Lab1_Base de Datos.accdb        # Archivo de base de datos Access
+├── Lab 2 Bases de Datos.pdf        # Informe de Laboratorio 1
+├── Lab2_Base de Datos.sql        # Archivo de base de datos Access
 ```
 
 ## 👥 Autores
@@ -86,7 +79,7 @@ Este repositorio contiene el desarrollo de un sistema de gestión de base de dat
 - Guillermo Guiñez
 
 ## 🗓️ Fecha de Entrega
-22 de septiembre de 2024
+27 de Octubre de 2024
 
 
 ## ⚠️ Advertencia y Licencia
